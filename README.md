@@ -8,10 +8,6 @@ Do you see the code in your code editor that says. That's an HTML element.
 
 Most HTML elements have an opening tag and a closing tag.
 
-Opening tags look like this:
-
-Closing tags look like this:
-
 The only difference between opening and closing tags is the forward slash after the opening bracket of a closing tag.
 
 Each challenge has tests you can run at any time by clicking the "Run tests" button. When you pass all tests, you'll be prompted to submit your solution and go to the next coding challenge.
