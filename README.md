@@ -10,10 +10,8 @@ Most HTML elements have an opening tag and a closing tag.
 
 Opening tags look like this:
 
-<h1>
 Closing tags look like this:
 
-</h1>
 The only difference between opening and closing tags is the forward slash after the opening bracket of a closing tag.
 
 Each challenge has tests you can run at any time by clicking the "Run tests" button. When you pass all tests, you'll be prompted to submit your solution and go to the next coding challenge.
